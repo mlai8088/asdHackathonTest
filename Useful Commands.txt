@@ -1,0 +1,7 @@
+cd ..
+cd <directory>
+git add
+git commit
+git status
+git push
+git pull
